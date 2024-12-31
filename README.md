@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ## Overview
-This project is a **Movie Recommendation System** built with **Streamlit** for the web interface and a machine learning model for suggesting context-based movie recommendations. 
+This project is a **Movie Recommendation System** built with **Streamlit** for the web interface and a machine learning model for suggesting content-based movie recommendations. 
 Users can select a movie they like, and the system will recommend similar movies based on the pre-trained model.
 
 ---
